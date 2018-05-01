@@ -1,9 +1,11 @@
 # pygrowthmodels
 
-[![Updates](https://pyup.io/repos/github/drodriguezperez/pygrowthmodels/shield.svg)](https://pyup.io/repos/github/drodriguezperez/pygrowthmodels/)
+[![PyPI](https://img.shields.io/pypi/v/pygrowthmodels.svg)](https://pypi.python.org/pypi/pygrowthmodels)
 [![Travis CI build status](https://travis-ci.org/drodriguezperez/pygrowthmodels.svg?branch=master)](https://travis-ci.org/drodriguezperez/pygrowthmodels)
+[![Requirements Status](https://requires.io/github/drodriguezperez/pygrowthmodels/requirements.svg?branch=master)](https://requires.io/github/drodriguezperez/pygrowthmodels/requirements/?branch=master)
 [![Codecov Code Coverage](https://codecov.io/gh/drodriguezperez/pygrowthmodels/branch/master/graph/badge.svg)](https://codecov.io/gh/drodriguezperez/pygrowthmodels)
 [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/drodriguezperez/pygrowthmodels/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/drodriguezperez/pygrowthmodels/?branch=master)
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/32b7ea56096a4ef5a5cd488989e9724d)](https://www.codacy.com/app/drodriguezperez/pygrowthmodels?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=drodriguezperez/pygrowthmodels&amp;utm_campaign=Badge_Grade)
 
 A compilation of nonlinear growth models
 

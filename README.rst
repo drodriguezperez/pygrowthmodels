@@ -1,8 +1,8 @@
 pygrowthmodels
 ==============
 
-|Updates| |Travis CI build status| |Codecov Code Coverage| |Scrutinizer
-Code Quality|
+|PyPI| |Travis CI build status| |Requirements Status| |Codecov Code
+Coverage| |Scrutinizer Code Quality| |Codacy Badge|
 
 A compilation of nonlinear growth models
 
@@ -78,11 +78,15 @@ Public License for more details.
 You should have received a copy of the GNU General Public License along
 with this program. If not, see https://www.gnu.org/licenses/.
 
-.. |Updates| image:: https://pyup.io/repos/github/drodriguezperez/pygrowthmodels/shield.svg
-   :target: https://pyup.io/repos/github/drodriguezperez/pygrowthmodels/
+.. |PyPI| image:: https://img.shields.io/pypi/v/pygrowthmodels.svg
+   :target: https://pypi.python.org/pypi/pygrowthmodels
 .. |Travis CI build status| image:: https://travis-ci.org/drodriguezperez/pygrowthmodels.svg?branch=master
    :target: https://travis-ci.org/drodriguezperez/pygrowthmodels
+.. |Requirements Status| image:: https://requires.io/github/drodriguezperez/pygrowthmodels/requirements.svg?branch=master
+   :target: https://requires.io/github/drodriguezperez/pygrowthmodels/requirements/?branch=master
 .. |Codecov Code Coverage| image:: https://codecov.io/gh/drodriguezperez/pygrowthmodels/branch/master/graph/badge.svg
    :target: https://codecov.io/gh/drodriguezperez/pygrowthmodels
 .. |Scrutinizer Code Quality| image:: https://scrutinizer-ci.com/g/drodriguezperez/pygrowthmodels/badges/quality-score.png?b=master
    :target: https://scrutinizer-ci.com/g/drodriguezperez/pygrowthmodels/?branch=master
+.. |Codacy Badge| image:: https://api.codacy.com/project/badge/Grade/32b7ea56096a4ef5a5cd488989e9724d
+   :target: https://www.codacy.com/app/drodriguezperez/pygrowthmodels?utm_source=github.com&utm_medium=referral&utm_content=drodriguezperez/pygrowthmodels&utm_campaign=Badge_Grade
